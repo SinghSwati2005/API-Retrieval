@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Data Structures", "category": "Computer Science" },
+  { "id": 2, "name": "Machine Learning", "category": "Artificial Intelligence" },
+  { "id": 3, "name": "Digital Marketing", "category": "Business" },
+  { "id": 4, "name": "Cloud Computing", "category": "Technology" },
+  { "id": 5, "name": "Human Psychology", "category": "Social Science" },
+  { "id": 6, "name": "Quantum Physics", "category": "Science" },
+  { "id": 7, "name": "Web Development", "category": "Technology" },
+  { "id": 7, "name": "App Development", "category": "Technology" }
+]
