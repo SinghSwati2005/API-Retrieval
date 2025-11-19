@@ -27,8 +27,8 @@ topic-retrieval-api/
 │   └── topic-api.js       # API route logic
 ├── data/
 │   └── topics.json        # Topics dataset
-├── README.md              # Documentation
-└── video/                 # 2-min explanation video (to be added)
+└──  README.md              # Documentation
+
 
 
 
@@ -138,7 +138,6 @@ A **2-minute video** explaining:
 - Code walkthrough
 - API demo in Postman/browser
 
- Add the video file in the `/video` folder.
 
 ---
 
